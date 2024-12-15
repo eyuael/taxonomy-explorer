@@ -1,0 +1,27 @@
+id,name,scientificName,description,imageUrl
+ord_1,Primates,Primates,"Order of mammals including monkeys, apes, lemurs, lorises, galagos, tarsiers, and humans. Known for binocular vision, complex social structures, and enhanced cognitive abilities.",null
+ord_2,Carnivora,Carnivora,"Order of primarily meat-eating mammals including cats, dogs, bears, seals, and walruses. Characterized by specialized teeth for meat consumption.",null
+ord_3,Rodentia,Rodentia,"Largest order of mammals including rats, mice, squirrels, beavers, and porcupines. Characterized by continuously growing incisors.",null
+ord_4,Chiroptera,Chiroptera,"Order comprising all bats, the only mammals capable of true flight. Most use echolocation for navigation.",null
+ord_5,Artiodactyla,Artiodactyla,"Even-toed ungulates including deer, cattle, pigs, antelopes, giraffes, hippos, and camels.",null
+ord_6,Perissodactyla,Perissodactyla,"Odd-toed ungulates including horses, rhinoceroses, and tapirs. Characterized by odd number of toes.",null
+ord_7,Cetacea,Cetacea,"Marine mammals including whales, dolphins, and porpoises. Fully aquatic with distinctive blowholes.",null
+ord_8,Proboscidea,Proboscidea,"Order containing elephants, characterized by long trunks and tusks.",null
+ord_9,Marsupialia,Marsupialia,"Pouched mammals including kangaroos, koalas, wombats, and opossums. Young develop in external pouches.",null
+ord_10,Xenarthra,Xenarthra,"Order including armadillos, sloths, and anteaters. Many have reduced teeth or are toothless.",null
+ord_11,Lagomorpha,Lagomorpha,"Order including rabbits, hares, and pikas. Characterized by two pairs of upper incisors.",null
+ord_12,Insectivora,Eulipotyphla,"Order including hedgehogs, shrews, moles, and solenodons. Primarily insectivorous.",null
+ord_13,Sirenia,Sirenia,"Aquatic herbivorous mammals including manatees and dugongs. Also known as sea cows.",null
+ord_14,Hyracoidea,Hyracoidea,"Order of small, herbivorous mammals known as hyraxes or dassies. Despite size, closely related to elephants.",null
+ord_15,Dermoptera,Dermoptera,"Flying lemurs or colugos. Gliding mammals of Southeast Asia.",null
+ord_16,Tubulidentata,Tubulidentata,"Order containing single living species: the aardvark. Characterized by tubular teeth.",null
+ord_17,Monotremata,Monotremata,"Egg-laying mammals including platypus and echidnas. Most primitive living mammals.",null
+ord_18,Pholidota,Pholidota,"Order containing pangolins. Characterized by protective keratin scales.",null
+ord_19,Macroscelidea,Macroscelidea,"Elephant shrews or sengis. Small, insectivorous mammals with long snouts.",null
+ord_20,Scandentia,Scandentia,"Tree shrews. Small, arboreal mammals of Southeast Asia.",null
+ord_21,Didelphimorphia,Didelphimorphia,"Order of opossums. Primarily found in Americas.",null
+ord_22,Diprotodontia,Diprotodontia,"Largest order of marsupials including kangaroos, wallabies, possums, koalas, and wombats.",null
+ord_23,Afrosoricida,Afrosoricida,"African golden moles and tenrecs. Insectivorous mammals of Africa and Madagascar.",null
+ord_24,Notoryctemorphia,Notoryctemorphia,"Marsupial moles. Blind, burrowing mammals of Australian deserts.",null
+ord_25,Microbiotheria,Microbiotheria,"Order containing single living species: monito del monte. Small, arboreal marsupial.",null
+ord_26,Dasyuromorphia,Dasyuromorphia,"Carnivorous marsupials including quolls, Tasmanian devils, and numbats.",null

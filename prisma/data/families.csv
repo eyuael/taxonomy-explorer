@@ -1,0 +1,162 @@
+id,name,scientificName,description,imageUrl,orderId
+fam_1,Hominidae,Hominidae,"Great apes including humans, chimpanzees, gorillas, and orangutans",null,ord_1
+fam_2,Hylobatidae,Hylobatidae,"Lesser apes or gibbons",null,ord_1
+fam_3,Cercopithecidae,Cercopithecidae,"Old World monkeys including macaques, baboons, and langurs",null,ord_1
+fam_4,Atelidae,Atelidae,"Howler monkeys, spider monkeys, and woolly monkeys",null,ord_1
+fam_5,Cebidae,Cebidae,"New World monkeys including capuchins and squirrel monkeys",null,ord_1
+fam_6,Aotidae,Aotidae,"Night monkeys or owl monkeys",null,ord_1
+fam_7,Pitheciidae,Pitheciidae,"Titis, sakis, and uakaris",null,ord_1
+fam_8,Galagidae,Galagidae,"Galagos or bush babies",null,ord_1
+fam_9,Lorisidae,Lorisidae,"Lorises and pottos",null,ord_1
+fam_10,Cheirogaleidae,Cheirogaleidae,"Dwarf and mouse lemurs",null,ord_1
+fam_11,Lemuridae,Lemuridae,"True lemurs",null,ord_1
+fam_12,Lepilemuridae,Lepilemuridae,"Sportive lemurs",null,ord_1
+fam_13,Indriidae,Indriidae,"Indris, sifakas, and woolly lemurs",null,ord_1
+fam_14,Daubentoniidae,Daubentoniidae,"Aye-aye",null,ord_1
+fam_15,Tarsiidae,Tarsiidae,"Tarsiers",null,ord_1
+fam_16,Felidae,Felidae,"Cats including lions, tigers, and domestic cats",null,ord_2
+fam_17,Canidae,Canidae,"Dogs including wolves, foxes, and jackals",null,ord_2
+fam_18,Ursidae,Ursidae,"Bears",null,ord_2
+fam_19,Procyonidae,Procyonidae,"Raccoons, coatis, and kinkajous",null,ord_2
+fam_20,Mustelidae,Mustelidae,"Weasels, badgers, otters, and martens",null,ord_2
+fam_21,Phocidae,Phocidae,"True seals",null,ord_2
+fam_22,Otariidae,Otariidae,"Eared seals and sea lions",null,ord_2
+fam_23,Odobenidae,Odobenidae,"Walruses",null,ord_2
+fam_24,Mephitidae,Mephitidae,"Skunks and stink badgers",null,ord_2
+fam_25,Ailuridae,Ailuridae,"Red pandas",null,ord_2
+fam_26,Hyaenidae,Hyaenidae,"Hyenas",null,ord_2
+fam_27,Viverridae,Viverridae,"Civets and genets",null,ord_2
+fam_28,Herpestidae,Herpestidae,"Mongooses",null,ord_2
+fam_29,Eupleridae,Eupleridae,"Malagasy carnivores",null,ord_2
+fam_30,Nandiniidae,Nandiniidae,"African palm civet",null,ord_2
+fam_31,Muridae,Muridae,"True mice and rats, gerbils, spiny mice",null,ord_3
+fam_32,Cricetidae,Cricetidae,"Hamsters, voles, lemmings, New World rats and mice",null,ord_3
+fam_33,Sciuridae,Sciuridae,"Squirrels, chipmunks, marmots",null,ord_3
+fam_34,Castoridae,Castoridae,"Beavers",null,ord_3
+fam_35,Heteromyidae,Heteromyidae,"Pocket mice and kangaroo rats",null,ord_3
+fam_36,Geomyidae,Geomyidae,"Pocket gophers",null,ord_3
+fam_37,Dipodidae,Dipodidae,"Jerboas",null,ord_3
+fam_38,Platacanthomyidae,Platacanthomyidae,"Spiny dormice",null,ord_3
+fam_39,Spalacidae,Spalacidae,"Blind mole rats",null,ord_3
+fam_40,Calomyscidae,Calomyscidae,"Mouse-like hamsters",null,ord_3
+fam_41,Nesomyidae,Nesomyidae,"African rock mice and relatives",null,ord_3
+fam_42,Pedetidae,Pedetidae,"Springhares",null,ord_3
+fam_43,Anomaluridae,Anomaluridae,"Scaly-tailed flying squirrels",null,ord_3
+fam_44,Ctenodactylidae,Ctenodactylidae,"Gundis",null,ord_3
+fam_45,Bathyergidae,Bathyergidae,"African mole rats",null,ord_3
+fam_46,Hystricidae,Hystricidae,"Old World porcupines",null,ord_3
+fam_47,Erethizontidae,Erethizontidae,"New World porcupines",null,ord_3
+fam_48,Chinchillidae,Chinchillidae,"Chinchillas and viscachas",null,ord_3
+fam_49,Dinomyidae,Dinomyidae,"Pacarana",null,ord_3
+fam_50,Caviidae,Caviidae,"Guinea pigs and cavies",null,ord_3
+fam_51,Dasyproctidae,Dasyproctidae,"Agoutis",null,ord_3
+fam_52,Cuniculidae,Cuniculidae,"Pacas",null,ord_3
+fam_53,Ctenomyidae,Ctenomyidae,"Tuco-tucos",null,ord_3
+fam_54,Octodontidae,Octodontidae,"Degus and relatives",null,ord_3
+fam_55,Abrocomidae,Abrocomidae,"Chinchilla rats",null,ord_3
+fam_56,Echimyidae,Echimyidae,"Spiny rats",null,ord_3
+fam_57,Capromyidae,Capromyidae,"Hutias",null,ord_3
+fam_58,Myocastoridae,Myocastoridae,"Coypu",null,ord_3
+fam_59,Gliridae,Gliridae,"Dormice",null,ord_3
+fam_60,Pteropodidae,Pteropodidae,"Flying foxes and fruit bats",null,ord_4
+fam_61,Rhinolophidae,Rhinolophidae,"Horseshoe bats",null,ord_4
+fam_62,Hipposideridae,Hipposideridae,"Old World leaf-nosed bats",null,ord_4
+fam_63,Megadermatidae,Megadermatidae,"False vampire bats",null,ord_4
+fam_64,Rhinopomatidae,Rhinopomatidae,"Mouse-tailed bats",null,ord_4
+fam_65,Craseonycteridae,Craseonycteridae,"Hog-nosed bats",null,ord_4
+fam_66,Emballonuridae,Emballonuridae,"Sac-winged bats",null,ord_4
+fam_67,Nycteridae,Nycteridae,"Slit-faced bats",null,ord_4
+fam_68,Myzopodidae,Myzopodidae,"Sucker-footed bats",null,ord_4
+fam_69,Mystacinidae,Mystacinidae,"New Zealand short-tailed bats",null,ord_4
+fam_70,Phyllostomidae,Phyllostomidae,"New World leaf-nosed bats",null,ord_4
+fam_71,Mormoopidae,Mormoopidae,"Ghost-faced bats",null,ord_4
+fam_72,Noctilionidae,Noctilionidae,"Bulldog bats",null,ord_4
+fam_73,Furipteridae,Furipteridae,"Smoky bats",null,ord_4
+fam_74,Thyropteridae,Thyropteridae,"Disk-winged bats",null,ord_4
+fam_75,Natalidae,Natalidae,"Funnel-eared bats",null,ord_4
+fam_76,Molossidae,Molossidae,"Free-tailed bats",null,ord_4
+fam_77,Vespertilionidae,Vespertilionidae,"Evening bats",null,ord_4
+fam_78,Miniopteridae,Miniopteridae,"Long-fingered bats",null,ord_4
+fam_79,Cistugidae,Cistugidae,"Wing-gland bats",null,ord_4
+fam_80,Bovidae,Bovidae,"Cattle, antelopes, sheep, goats",null,ord_5
+fam_81,Cervidae,Cervidae,"Deer, elk, moose",null,ord_5
+fam_82,Giraffidae,Giraffidae,"Giraffes and okapis",null,ord_5
+fam_83,Antilocapridae,Antilocapridae,"Pronghorns",null,ord_5
+fam_84,Moschidae,Moschidae,"Musk deer",null,ord_5
+fam_85,Tragulidae,Tragulidae,"Mouse deer",null,ord_5
+fam_86,Suidae,Suidae,"Pigs",null,ord_5
+fam_87,Tayassuidae,Tayassuidae,"Peccaries",null,ord_5
+fam_88,Hippopotamidae,Hippopotamidae,"Hippopotamuses",null,ord_5
+fam_89,Camelidae,Camelidae,"Camels and llamas",null,ord_5
+fam_90,Equidae,Equidae,"Horses, zebras, and asses",null,ord_6
+fam_91,Rhinocerotidae,Rhinocerotidae,"Rhinoceroses",null,ord_6
+fam_92,Tapiridae,Tapiridae,"Tapirs",null,ord_6
+fam_93,Balaenidae,Balaenidae,"Right whales",null,ord_7
+fam_94,Balaenopteridae,Balaenopteridae,"Rorquals",null,ord_7
+fam_95,Eschrichtiidae,Eschrichtiidae,"Gray whales",null,ord_7
+fam_96,Neobalaenidae,Neobalaenidae,"Pygmy right whales",null,ord_7
+fam_97,Physeteridae,Physeteridae,"Sperm whales",null,ord_7
+fam_98,Kogiidae,Kogiidae,"Pygmy sperm whales",null,ord_7
+fam_99,Ziphiidae,Ziphiidae,"Beaked whales",null,ord_7
+fam_100,Platanistidae,Platanistidae,"South Asian river dolphins",null,ord_7
+fam_101,Iniidae,Iniidae,"Amazon river dolphins",null,ord_7
+fam_102,Pontoporiidae,Pontoporiidae,"La Plata dolphins",null,ord_7
+fam_103,Monodontidae,Monodontidae,"Narwhals and belugas",null,ord_7
+fam_104,Phocoenidae,Phocoenidae,"Porpoises",null,ord_7
+fam_105,Delphinidae,Delphinidae,"Oceanic dolphins",null,ord_7
+fam_106,Elephantidae,Elephantidae,"Elephants",null,ord_8
+fam_107,Didelphidae,Didelphidae,"Opossums",null,ord_21
+fam_108,Caenolestidae,Caenolestidae,"Shrew opossums",null,ord_21
+fam_109,Microbiotheriidae,Microbiotheriidae,"Monito del monte",null,ord_25
+fam_110,Thylacomyidae,Thylacomyidae,"Bilbies",null,ord_22
+fam_111,Myrmecobiidae,Myrmecobiidae,"Numbat",null,ord_26
+fam_112,Dasyuridae,Dasyuridae,"Quolls and dunnarts",null,ord_26
+fam_113,Thylacinidae,Thylacinidae,"Thylacine (extinct)",null,ord_26
+fam_114,Peramelidae,Peramelidae,"Bandicoots",null,ord_22
+fam_115,Chaeropodidae,Chaeropodidae,"Pig-footed bandicoot (extinct)",null,ord_22
+fam_116,Notoryctidae,Notoryctidae,"Marsupial moles",null,ord_24
+fam_117,Phascolarctidae,Phascolarctidae,"Koalas",null,ord_22
+fam_118,Vombatidae,Vombatidae,"Wombats",null,ord_22
+fam_119,Phalangeridae,Phalangeridae,"Cuscuses and brushtail possums",null,ord_22
+fam_120,Burramyidae,Burramyidae,"Pygmy possums",null,ord_22
+fam_121,Tarsipedidae,Tarsipedidae,"Honey possum",null,ord_22
+fam_122,Petauridae,Petauridae,"Striped possums and wrist-winged gliders",null,ord_22
+fam_123,Pseudocheiridae,Pseudocheiridae,"Ring-tailed possums and relatives",null,ord_22
+fam_124,Acrobatidae,Acrobatidae,"Feathertail gliders",null,ord_22
+fam_125,Macropodidae,Macropodidae,"Kangaroos and wallabies",null,ord_22
+fam_126,Potoroidae,Potoroidae,"Rat-kangaroos",null,ord_22
+fam_127,Hypsiprymnodontidae,Hypsiprymnodontidae,"Musky rat-kangaroo",null,ord_22
+fam_128,Bradypodidae,Bradypodidae,"Three-toed sloths",null,ord_10
+fam_129,Megalonychidae,Megalonychidae,"Two-toed sloths",null,ord_10
+fam_130,Dasypodidae,Dasypodidae,"Long-nosed armadillos",null,ord_10
+fam_131,Chlamyphoridae,Chlamyphoridae,"Fairy armadillos and relatives",null,ord_10
+fam_132,Myrmecophagidae,Myrmecophagidae,"Giant anteater",null,ord_10
+fam_133,Cyclopedidae,Cyclopedidae,"Silky anteaters",null,ord_10
+fam_134,Palaeanodonta,Palaeanodonta,"Extinct pangolin-like mammals",null,ord_10
+fam_135,Chrysochloridae,Chrysochloridae,"Golden moles",null,ord_9
+fam_136,Tenrecidae,Tenrecidae,"Tenrecs",null,ord_9
+fam_137,Solenodontidae,Solenodontidae,"Solenodons",null,ord_11
+fam_138,Talpidae,Talpidae,"Moles and shrew moles",null,ord_11
+fam_139,Soricidae,Soricidae,"Shrews",null,ord_11
+fam_140,Erinaceidae,Erinaceidae,"Hedgehogs and gymnures",null,ord_11
+fam_141,Macroscelididae,Macroscelididae,"Elephant shrews",null,ord_12
+fam_142,Orycteropodidae,Orycteropodidae,"Aardvark",null,ord_13
+fam_143,Manidae,Manidae,"Pangolins",null,ord_14
+fam_144,Tachyglossidae,Tachyglossidae,"Short-beaked echidna",null,ord_15
+fam_145,Ornithorhynchidae,Ornithorhynchidae,"Platypus",null,ord_15
+fam_146,Procaviidae,Procaviidae,"Hyraxes",null,ord_16
+fam_147,Dugongidae,Dugongidae,"Dugong",null,ord_17
+fam_148,Trichechidae,Trichechidae,"Manatees",null,ord_17
+fam_149,Leporidae,Leporidae,"Rabbits and hares",null,ord_18
+fam_150,Ochotonidae,Ochotonidae,"Pikas",null,ord_18
+fam_151,Tupaiidae,Tupaiidae,"Tree shrews",null,ord_19
+fam_152,Ptilocercidae,Ptilocercidae,"Pen-tailed treeshrew",null,ord_19
+fam_153,Cynocephalidae,Cynocephalidae,"Colugos",null,ord_20
+fam_154,Anomaluridae,Anomaluridae,"Scaly-tailed squirrels",null,ord_3
+fam_155,Dipodidae,Dipodidae,"Jerboas and jumping mice",null,ord_3
+fam_156,Chinchillidae,Chinchillidae,"Chinchillas and viscachas",null,ord_3
+fam_157,Erethizontidae,Erethizontidae,"New World porcupines",null,ord_3
+fam_158,Caviidae,Caviidae,"Guinea pigs and cavies",null,ord_3
+fam_159,Hydrochaeridae,Hydrochaeridae,"Capybaras",null,ord_3
+fam_160,Dinomyidae,Dinomyidae,"Pacaranas",null,ord_3
+fam_161,Cuniculidae,Cuniculidae,"Pacas",null,ord_3

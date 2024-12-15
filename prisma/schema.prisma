@@ -1,0 +1,97 @@
+// prisma/schema.prisma
+
+generator client {
+  provider = "prisma-client-ts"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model TaxonomicOrder {
+  id              String           @id @default(cuid())
+  name            String
+  scientificName  String           @unique
+  description     String?
+  imageUrl        String?
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+  families        TaxonomicFamily[]
+
+  @@index([scientificName])
+}
+
+model TaxonomicFamily {
+  id              String           @id @default(cuid())
+  name            String
+  scientificName  String           @unique
+  description     String?
+  imageUrl        String?
+  orderId         String
+  order           TaxonomicOrder   @relation(fields: [orderId], references: [id])
+  genera          TaxonomicGenus[]
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+
+  @@index([orderId])
+  @@index([scientificName])
+}
+
+model TaxonomicGenus {
+  id              String           @id @default(cuid())
+  name            String
+  scientificName  String           @unique
+  description     String?
+  imageUrl        String?
+  familyId        String
+  family          TaxonomicFamily  @relation(fields: [familyId], references: [id])
+  species         TaxonomicSpecies[]
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+
+  @@index([familyId])
+  @@index([scientificName])
+}
+
+model TaxonomicSpecies {
+  id                String           @id @default(cuid())
+  name              String
+  scientificName    String           @unique
+  description       String?
+  imageUrl          String?
+  conservationStatus String?
+  genusId           String
+  genus             TaxonomicGenus   @relation(fields: [genusId], references: [id])
+  subspecies        TaxonomicSubspecies[]
+  geographicRegions GeographicRegion[]
+  createdAt         DateTime         @default(now())
+  updatedAt         DateTime         @updatedAt
+
+  @@index([genusId])
+  @@index([scientificName])
+}
+
+model TaxonomicSubspecies {
+  id              String           @id @default(cuid())
+  name            String
+  scientificName  String           @unique
+  description     String?
+  imageUrl        String?
+  conservationStatus String?
+  speciesId       String
+  species         TaxonomicSpecies @relation(fields: [speciesId], references: [id])
+  geographicRegions GeographicRegion[]
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+
+  @@index([speciesId])
+  @@index([scientificName])
+}
+
+model GeographicRegion {
+  id              String           @id @default(cuid())
+  name            String
+  species         TaxonomicSpecies[]
+  subspecies      TaxonomicSubspecies[]
+}
